@@ -3,5 +3,5 @@ This repo. contains our implementation for Federated Learning with PEFT methods 
 
 
 ## Architectures
-<img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/Screenshot%202024-07-08%20154451.png" width="512"/>
+<img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/Screenshot%202024-07-08%20154451.png" width="1024"/>
 
