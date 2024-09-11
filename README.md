@@ -3,7 +3,7 @@ This repo. contains our implementation for Federated Learning with PEFT methods 
 
 
 # Architectures
-<img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/FL.png" width="1024"/>
+<img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/FL.png" width="512"/>
 
 
 # WavLM + EL adapters
