@@ -1,24 +1,22 @@
-# WavLM_Adapters_FL
-This repo. contains our implementation for Federated Learning with PEFT methods (e.g. Adapters) integrated with frozen WavLM
+# Description
+This repo. contains our implementation for our research "EFL-PEFT: A communication Efficient Federated Learning framework using PEFT sparsification for ASR". The paper is submitted to ICASSP (2025). More details on how to use the code, and advanced scripts will be available soon. Stay tuned...
 
-
-# Architectures
+# EFL-PEFT architecture
 <img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/FL.png" width="512"/>
-
 
 # WavLM + EL adapters
 <img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/EL.png" width="512"/>
 
 
-
 # References
-Please use the following citation for this work:
+Our implementation is based on this nice work:
 ```
 @inproceedings{otake2023parameter,
   title = {Parameter Efficient Transfer Learning for Various Speech Processing Tasks},
   author = {S. Otake, R. Kawakami, N. Inoue},
   booktitle = {Proc. ICASSP},
   year = {2023},
+  code_url = {https://github.com/sinhat98/adapter-wavlm}
 }
 ```
 
