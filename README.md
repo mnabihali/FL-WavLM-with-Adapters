@@ -13,6 +13,7 @@ This repo. contains our implementation for our research "EFL-PEFT: A communicati
 
 # How to use
 ### Dataset preparation
+--> Will add it asap <--
 ### Train
 Syntax: To use EL adapters `python client.py --train_lawithea true`
 ### Inference
@@ -32,7 +33,7 @@ Our implementation is based on this nice work:
 ```
 
 # Publication
-Our research paper is under review at ICASSP 2025. It will be on Arxiv soon.
+Our research paper is under review at ICASSP 2025. It will be on arxiv soon.
 ```
 @inproceedings{mnabihali,
   title = {EFL-PEFT: A communication Efficient Federated Learning framework using PEFT sparsification for ASR},
