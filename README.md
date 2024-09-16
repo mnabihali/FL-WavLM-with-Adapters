@@ -12,7 +12,12 @@ This repo. contains our implementation for our research "EFL-PEFT: A communicati
 <img src="https://github.com/mnabihali/WavLM_Adapters_FL/blob/main/assets/EL.png" width="512"/>
 
 # How to use
+### Dataset preparation
+### Train
 Syntax: To use EL adapters `python client.py --train_lawithea true`
+### Inference
+Syntax: To use EL adapters `python inference.py --train_lawithea true`
+
 
 # References
 Our implementation is based on this nice work:
