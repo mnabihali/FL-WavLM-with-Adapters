@@ -1,3 +1,5 @@
+<img src="https://github.com/mnabihali/FL-WavLM-with-Adapters/blob/main/assets/GENFL.webp" width="512"/>
+
 # Description
 This repo. contains our implementation for our research "EFL-PEFT: A communication Efficient Federated Learning framework using PEFT sparsification for ASR". The paper is submitted to ICASSP (2025). More details on how to use the code, and advanced scripts will be available soon. Stay tuned...
 
