@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://github.com/mnabihali/FL-WavLM-with-Adapters/blob/main/assets/ff.webp" alt="EFL-PEFT Banner" />
+    <img src="https://github.com/mnabihali/FL-WavLM-with-Adapters/blob/main/assets/ff.webp" alt="EFL-PEFT Banner" style="border-radius: 15px;" />
 </div>
 
 # Description
