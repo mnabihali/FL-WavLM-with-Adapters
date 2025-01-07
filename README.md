@@ -33,12 +33,11 @@ Our implementation is based on this nice work:
 ```
 
 # Publication
-Our research paper is under review at ICASSP 2025. It will be on arxiv soon.
 ```
 @inproceedings{mnabihali,
-  title = {EFL-PEFT: A communication Efficient Federated Learning framework using PEFT sparsification for ASR},
+  title = {EFL-PEFT: A Communication Efficient Federated Learning framework using PEFT sparsification for ASR},
   author = {M.Nabih, D. Falavigna, A. Brutti},
-  booktitle = {Under review ICASSP},
+  booktitle = {Proc. of ICASSP},
   year = {2025},
 }
 ```
