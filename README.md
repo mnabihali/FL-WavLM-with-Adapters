@@ -44,6 +44,7 @@ Our implementation is based on this nice work:
 
 # Acknowledgment
 * We acknowledge the support of the PNRR project FAIR - Future AI Research (PE00000013), under the NRRP MUR program funded by the NextGenerationEU.
+  
 ∗∗ We acknowledge the CINECA award under the ISCRC initiative, for the availability of high performance computing resources and support”
 
 
